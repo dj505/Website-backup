@@ -1,0 +1,50 @@
+a:link
+{
+    color:green;
+}
+a:hover
+{
+    color:orange;
+}
+a:visited
+{
+    color:red;
+}
+h1
+{
+        color: ForestGreen;
+}
+body
+{
+        font-family: arial,verdana,sans-serif,Georgia, "Times New Roman", Times, serif;
+        text-align:left;
+}
+h1
+{
+        text-shadow: 5px 5px 5px #aaaaaa;
+}
+#page_header
+{
+        text-align:center;
+        background:#cccccc;
+        padding:10px;
+        margin:5px;
+}
+ul#list-nav {
+        margin:20px;
+        padding:0;
+        list-style:none;
+        width:1000px;
+}
+ul#list-nav li {
+        display:inline
+}
+ul#list-nav li a {
+        text-decoration:none;
+        padding:5px 0;
+        width:100px;
+        background:#FF4000;
+        color:#eee;
+        float:left;
+}
+//#298A08
