@@ -5,8 +5,8 @@
   </title>
 <link rel="stylesheet" type="text/css" href="style.css">
 <div  id="page_header">
- <h1>Sam's Raspberry Pi Website</h1>
- <h2>All the coolest (and nerdiest) stuff, all in one place!</h2>
+ <h1>Rick Astley - Never gonna give you up</h1>
+ <h2>The only song rated five stars in my iTunes library!</h2>
 </div>
 <nav>
  <ul id="list-nav">
@@ -26,10 +26,10 @@
 <center>
 <audio autoplay="autoplay" controls="controls">
   <source src="rickroll.mp3" type="audio/mpeg">
-Your browser does not support the HTML 5 audio element if you are reading this, please consider upgrading to a newer browser.
+Your browser does not support the HTML 5 audio element if you are reading this. Please consider upgrading to a newer browser.
 </audio>
 </center>
-<div style="position: absolute; top:300px; left:30%;  width:40%; height:1600px; padding:20px; background-color:LightSkyBlue;">
+<div id="div2">
 <p>
 <center>
 We're no strangers to love<br/>

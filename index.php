@@ -31,10 +31,11 @@
     </center>
   </p>
   <p>
-<div style="position: absolute; top:300px; left:10%;  width:80%; height:1000px; padding:20px; background-color:LightSkyBlue;">
+<div id="div1">
 Hello, like the changes I made? Eh? Wanna see all my messy HTML and CSS (code), I put code in brackets because HTML and CSS are pretty n00by programming languages,
-if they are even ones at that. But anyway, here's a GitHub link to my source code and images, all original, made by me. <a href="https://github.com/1sammy/Website">GitHub.com</a>.
+if they are even ones at that. But anyway, here's a GitHub link to my source code and images, all original, made by me. <a href="https://github.com/1sammy/Website-backup">GitHub.com</a>.
 I apologize to anyone attempting to use that link, GitHub and I had a fight last night and it decided to stop working.
+Finally got GitHub working again, and the link should now be working once more, just had to unilstall and reinstall EVERYTHING. Not impressed GitHub.
 And here is a link to Mr. DJ505's website: <a href="https://dj505gaming.wordpress.com/">wordpress.com</a>.
 <br/>
 As I spend more time attempting to make a passable website my respect for those who are highly fluent in HTML and CSS has started skyrocteting and my respect for their respective languages has increased by a factor or twenty or more. 

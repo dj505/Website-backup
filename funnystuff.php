@@ -19,6 +19,7 @@
 </nav>
 <p>
 <div style="position: absolute; top:300px; left:10%;  width:80%; height:1000px; padding:20px; background-color:LightSkyBlue;">
+Select a page in the navigation bar at the top of the screen to begin browsing some of my favorite funny photos.
 If you have any suggestions for funny pictures, please email a link to the photo and the resolution of the photo in pixels to 1greenpanda@gmail.com.
 </div>
 </p>

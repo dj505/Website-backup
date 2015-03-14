@@ -47,4 +47,23 @@ ul#list-nav li a {
         color:#eee;
         float:left;
 }
-//#298A08
+#div1{
+	position: absolute;
+	top:300px;
+	left:10%; 
+	width:80%;
+	height:995px;
+	padding:20px;
+	background-image: url(../bodybkg.png);
+	background-size:100%;
+}
+#div2{
+        position: absolute;
+        top:300px;
+        left:35%; 
+        width:30%;
+        height:1710px;
+        padding:20px;
+        background-image: url(../rickrollbody.png);
+        background-size:100%;
+}
